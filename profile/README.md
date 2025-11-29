@@ -14,5 +14,5 @@ The Occultist framework consists of the following components.
   <dt><a href="https://github.com/occultist-dev/occultist">Occultist</a></dt>
   <dd>A backend HTTP library inspired by Koa but also very different. This library has first class support for the HTTP accept header and can map different content types to different handlers for the same URL path. It has a powerful interface for normalizing HTTP request information to a user land cache, managing etags of dynamic data and other features which make it a different but attractive HTTP library.<dd>
   <dt><a href="https://github.com/occultist-dev/longform">Longform</a></dt>
-  <dd>A markup language like Markdown but about to natively represent all HTML elements and output HTML fragments. Content rendered using Longform responses can remove the double data problem of server side rendering. It is the Octiron framework's approach to server islands, although is not limited to being treated as static content with how it integrates with Octiron.
+  <dd>A markup language like Markdown but about to natively represent all HTML elements and output HTML fragments. Content rendered using Longform responses can remove the double data problem of server side rendering. It is the Octiron framework's approach to server islands, but not limited to being treated as static content.
 </dl>
