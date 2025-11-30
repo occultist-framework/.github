@@ -8,7 +8,7 @@ The Occultist.dev project consists of the following components.
   <dt><a href="https://mithril.js.org">Mithril</a></dt>
   <dd>A small and stable vdom library which can render to HTML and control the DOM. This project is independent of the Occultist.dev project but is an important component.</dd>
   <dt><a href="https://github.com/digitalbazaar/jsonld.js">jsonld.js</a></dt>
- <dd>A library implementing JSON-LD algorithms. This is used by Octiron to expand JSON-ld responses. jsonld.js includes a lot more functionality than Octiron requires so an implementation of JSON-LD's expansion algorithm will later be developed so this dependency can be replaced.
+ <dd>A library implementing JSON-LD algorithms. This is used by Octiron to expand JSON-LD responses. jsonld.js includes a lot more functionality than Octiron requires so an implementation of JSON-LD's expansion algorithm will later be developed so this dependency can be replaced.
   <dt><a href="https://github.com/occultist-dev/octiron">Octiron</a></dt>
   <dd>A frontend framework which can traverse JSON-LD API's and map response data to Mithril vdom and components. Occultist can be configured to render other content types in more optimized ways than the general use case JSON-LD responses solves. 
   <dt><a href="https://github.com/occultist-dev/occultist">Occultist</a></dt>
