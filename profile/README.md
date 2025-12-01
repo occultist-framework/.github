@@ -1,6 +1,6 @@
 # Occultist.dev
 
-The Occultist.dev framework is a work in progress fullstack SSR Javascript framework that can achieve many of the features popular by other modern Javascript frameworks but with its own spin on them. Occultist.dev leans into RESTful solutions, favours control of HTTP caching and content type negotiation over static bundlers.
+Occultist.dev is a work in progress fullstack SSR Javascript framework that can achieve many of the features popular by other modern Javascript frameworks but with its own spin on them. Occultist.dev leans into RESTful solutions, favours control of HTTP caching and content type negotiation over static bundlers.
 
 
 The Occultist.dev project consists of the following components.
